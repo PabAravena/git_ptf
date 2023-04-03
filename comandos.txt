@@ -1,0 +1,2 @@
+1.- git init (inicializa una carpeta como repositorio local)
+2.- git add nombreArchivo o gi add .(agrega los archivos al repositorio)
