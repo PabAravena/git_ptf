@@ -1,2 +1,4 @@
 1.- git init (inicializa una carpeta como repositorio local)
 2.- git add nombreArchivo o gi add .(agrega los archivos al repositorio)
+3.- git commit -m "mensaje" (punto de guardado para el proyecto)
+4.- ligar a un repositorio remoto 
