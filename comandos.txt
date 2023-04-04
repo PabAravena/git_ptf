@@ -2,3 +2,7 @@
 2.- git add nombreArchivo o gi add .(agrega los archivos al repositorio)
 3.- git commit -m "mensaje" (punto de guardado para el proyecto)
 4.- ligar a un repositorio remoto 
+5.- git push -u origin master o git push -u origin main
+
+para subir cambio:
+paso 2 | 3 | 5
